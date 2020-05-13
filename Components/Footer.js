@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="container">
             <div className="left"></div>
-            <div className="right">made with <i style={{color: 'red'}} className="fa fa-heart0"></i> by <a href="http://afaithraf.github.io/my-portfolio">Ashraf</a></div>
+            <div className="right">made with <i style={{color: 'red'}} className="fa fa-heart"></i> by <a href="http://afaithraf.github.io/my-portfolio">Ashraf</a></div>
             <style jsx>{`
             .container {
                 background: #f7d345;

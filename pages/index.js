@@ -1,8 +1,8 @@
 import Head from 'next/head'
-import Navbar from './Components/Navbar';
+import Navbar from '../Components/Navbar';
 import G from '../site_config.json';
-import SmallPost from './Components/SmallPost';
-import Footer from './Components/Footer';
+import SmallPost from '../Components/SmallPost';
+import Footer from '../Components/Footer';
 
 const Home = () => (
   <div className="container">
@@ -74,7 +74,7 @@ const Home = () => (
     <Footer />
     <style jsx>{`
     .container {
-      background: url('/assets/img/b1.png');
+      background: url('assets/img/b1.png');
       width: 100%;
     }
     .top-part {
