@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{Juyh:function(n,o){},NW6U:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){return w("Juyh")}])}},[["NW6U",0]]]);
