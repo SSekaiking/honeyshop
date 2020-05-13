@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{GrpB:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/shop",function(){return w("Xyu5")}])},Xyu5:function(n,o){}},[["GrpB",0]]]);
